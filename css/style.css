@@ -146,7 +146,7 @@ body {
     }
     .container {
         width: 40vw;
-        height: 50vh;
+        height: 60vh;
         grid-template-areas: 
         "box1 box1"
         "box2 box3";
